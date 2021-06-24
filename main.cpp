@@ -100,13 +100,13 @@ printer.displayErrorMessage();
 //  action 3:   the printer prints a character
 printer.printCharacter;
 //  7)
-//  Noun:       chef
-//  action 1:   the chef sharpens their knife
-chef.sharpenKnife();
-//  action 2:   the chef preps an ingredient
-chef.prepIngredient();
-//  action 3:   the chef cooks a dish
-chef.cookDish();
+//  Noun:       firstChairViolinist
+//  action 1:   the first chair violinist tunes the orchestra
+firstChairViolinist.tuneOrchestra();
+//  action 2:   the first chair violinist provides bowings
+firstChairViolinist.provideBowings();
+//  action 3:   the first chair violinist prepares to play
+firstChairViolinist.prepareToPlay();
 //  8)
 //  Noun:       arborist
 //  action 1:   the arborist trims a branch
