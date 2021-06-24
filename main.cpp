@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       eye
+//  action 1:   the eye blinks
+eye.blink();
+//  action 2:   the eye focuses 
+eye.focus();
+//  action 3:   the eye looks left
+eye.lookLeft();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       star
+//  action 1:   the star emits light
+star.emitLight();
+//  action 2:   the star emits a stellar flare
+star.emitStellarFlare();
+//  action 3:   the star collapses into a black hole
+star.collapseToBlackHole();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       bird
+//  action 1:   the bird sings
+bird.sing();
+//  action 2:   the bird banks to the right
+bird.bankRight();
+//  action 3:   the bird searches for a worm
+bird.searchForWorm();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       lobster
+//  action 1:   the lobster crawls forward
+lobster.crawlForward();
+//  action 2:   the lobster cleans its feelers
+lobster.cleanFeelers();
+//  action 3:   the lobster molts
+lobster.molt();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       truck
+//  action 1:   the truck merges left
+truck.mergeLeft();
+//  action 2:   the truck honks its horn
+truck.honkHorn();
+//  action 3:   the truck activates its air brakes
+truck.activateAirBrakes();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       printer
+//  action 1:   the printer prints a test page
+printer.printTestPage();
+//  action 2:   the printer displays an error message
+printer.displayErrorMessage();
+//  action 3:   the printer prints a character
+printer.printCharacter;
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       chef
+//  action 1:   the chef sharpens their knife
+chef.sharpenKnife();
+//  action 2:   the chef preps an ingredient
+chef.prepIngredient();
+//  action 3:   the chef cooks a dish
+chef.cookDish();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       arborist
+//  action 1:   the arborist trims a branch
+arborist.trimBranch();
+//  action 2:   the arborist examines a tree
+arborist.examineTree();
+//  action 3:   the arborist plants a tree
+arborist.plantTree();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       lion
+//  action 1:   the lion roars
+lion.roar();
+//  action 2:   the lion shakes its head
+lion.shakeHead();
+//  action 3:   the lion goes to sleep
+lion.sleep();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       painter
+//  action 1:   the painter cleans their brush
+painter.cleanBrush();
+//  action 2:   the painter climbs a ladder
+painter.climbLadder();
+//  action 3:   the painter estimates required paint coverage
+painter.estimateCoverage();
 
 
 #endif
